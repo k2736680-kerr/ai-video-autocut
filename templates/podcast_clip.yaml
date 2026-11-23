@@ -1,0 +1,12 @@
+name: podcast_clip
+description: 面向播客或对谈切片的自动粗剪模板
+hook_rules:
+  - 优先最强观点、争议点、情绪高点
+body_rules:
+  - 保留核心论点
+  - 删掉重复和铺垫过长的句子
+  - 输出更适合社媒传播的版本
+style_notes:
+  - 强观点优先
+  - 节奏偏快
+  - 适合长内容切短

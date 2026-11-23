@@ -1,0 +1,10 @@
+name: product_promo
+description: 面向产品卖点和种草视频的自动粗剪模板
+hook_rules:
+  - 开头先给痛点或直接给结果
+body_rules:
+  - 卖点要按逻辑展开
+  - 保留场景价值与行动号召
+style_notes:
+  - 更商业化
+  - 适合产品介绍、功能演示、种草类内容
